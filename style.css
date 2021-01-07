@@ -636,6 +636,19 @@ figure.effect-zoe:hover p.icon-links a:first-child {
   text-align: center;
 }
 
+.grid h2{
+  font-family: Breathe Fire;
+  color:rgb(223, 236, 240);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.effect-zoe h2{
+  font-family: Breathe Fire;
+  color:rgb(223, 236, 240);
+}
+
+
 
 /* Common style */
 .grid figure {
